@@ -1,0 +1,1 @@
+My capstone project is a time series forecasting analysis of store sales and price data, involving the base prices, total prices, and units sold of 28 products across 76 stores.
